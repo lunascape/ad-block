@@ -7,7 +7,7 @@
     "test": "test"
   },
   "dependencies": {
-    "bloom-filter-cpp": "^1.2.2",
+    "bloom-filter-cpp": "git@github.com:mailtokartik1/bloom-filter-cpp.git#dev",
     "hashset-cpp": "^2.2.1",
     "nan": "^2.13.2"
   },
