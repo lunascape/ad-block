@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "bloom-filter-cpp": "^1.2.2",
-    "hashset-cpp": "^2.1.1",
+    "hashset-cpp": "2.2.0",
     "nan": "^2.13.2"
   },
   "devDependencies": {
