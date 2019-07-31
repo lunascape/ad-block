@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "bloom-filter-cpp": "git@github.com:mailtokartik1/bloom-filter-cpp.git#dev",
-    "hashset-cpp": "^2.2.1",
+    "hashset-cpp": "git@github.com:mailtokartik1/hashset-cpp.git#dev",
     "nan": "^2.13.2"
   },
   "devDependencies": {
