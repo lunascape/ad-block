@@ -7,8 +7,8 @@
     "test": "test"
   },
   "dependencies": {
-    "bloom-filter-cpp": "git@github.com:mailtokartik1/bloom-filter-cpp.git#dev",
-    "hashset-cpp": "git@github.com:mailtokartik1/hashset-cpp.git#dev",
+    "bloom-filter-cpp": "git@github.com:lunascape/bloom-filter-cpp.git#dev",
+    "hashset-cpp": "git@github.com:lunascape/hashset-cpp.git#dev",
     "nan": "^2.13.2"
   },
   "devDependencies": {
